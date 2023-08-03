@@ -1,0 +1,38 @@
+body{
+   margin: 0px;
+   background-color: rgba(94, 102, 216, 0.473);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+   font: 4em sans-serif;
+}
+#fondo{
+   height: 300px;
+    width: 350px;
+    border-radius: 80%;
+    border:solid 5px rgb(138, 149, 212);
+
+   }
+.contenido{
+   color: rgb(247, 245, 242);
+   background-image: url("./fondoazul.jpg");
+   background-repeat: no-repeat;
+   background-position:auto;
+   background-size: 90rem 37rem ;
+   
+}
+
+.brown{
+   background-color: rgb(112, 137, 185);
+   color: rgb(14, 33, 87);   
+}
+.a{
+   text-align: center;
+}
+#mariana{
+   font-size: 27px;
+   color: rgb(211, 195, 195);
+}
+#name{
+   font-family:serif;
+}
